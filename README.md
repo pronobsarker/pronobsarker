@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pronobsarker
 - 👀 I’m interested in Building Softwares that makes huge impact on people's lives
-- 🌱 I’m currently learning Full Stack Developement
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on AI, ML and Full Stack Developement
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... you can email me at sarkpr01@gettysburg.edu
 
 <!---
