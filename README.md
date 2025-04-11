@@ -3,8 +3,6 @@
 - 🌱 I’m currently working on AI, ML and Full Stack Developement
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... you can email me at sarkpr01@gettysburg.edu
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronobsarker)](https://github.com/pronobsarker/github-readme-stats)
-<!---
 pronobsarker/pronobsarker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
